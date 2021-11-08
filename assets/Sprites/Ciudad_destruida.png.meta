@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "5733a9cc-a1c7-4592-a0a0-663a676d5c70",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "point",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 637,
+  "height": 371,
+  "platformSettings": {},
+  "subMetas": {
+    "Ciudad_destruida": {
+      "ver": "1.0.4",
+      "uuid": "ca6b8cdc-3bbe-418a-a30e-056f186876c4",
+      "rawTextureUuid": "5733a9cc-a1c7-4592-a0a0-663a676d5c70",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 637,
+      "height": 371,
+      "rawWidth": 637,
+      "rawHeight": 371,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

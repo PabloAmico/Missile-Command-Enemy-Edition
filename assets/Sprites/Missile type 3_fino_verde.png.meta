@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e798417b-01a9-4a19-bb5d-107b3e31eebc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "point",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 360,
+  "height": 682,
+  "platformSettings": {},
+  "subMetas": {
+    "Missile type 3_fino_verde": {
+      "ver": "1.0.4",
+      "uuid": "6292bb64-4ffd-4f93-be4c-e7b012856341",
+      "rawTextureUuid": "e798417b-01a9-4a19-bb5d-107b3e31eebc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 360,
+      "height": 682,
+      "rawWidth": 360,
+      "rawHeight": 682,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
